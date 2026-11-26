@@ -5,13 +5,7 @@
   <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-light.svg" alt="Luca Di Stefano, étudiant en E-business · E-business student" width="100%">
 </picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lucadistefano.be-102a56?style=flat-square)](https://lucadistefano.be)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-luca--distefano-0a66c2?style=flat-square)](https://www.linkedin.com/in/luca-distefano)
-[![Behance](https://img.shields.io/badge/Behance-lucadistefano14-1769ff?style=flat-square)](https://www.behance.net/lucadistefano14)
-[![Dribbble](https://img.shields.io/badge/Dribbble-luca--di--stefano-ea4c89?style=flat-square)](https://dribbble.com/luca-di-stefano)
-[![Instagram](https://img.shields.io/badge/Instagram-%40luca__dsf-e4405f?style=flat-square)](https://www.instagram.com/luca_dsf/)
-
-[CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [Resume in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
+[CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [CV in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
 
 </div>
 
