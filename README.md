@@ -3,10 +3,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-dark.svg">
   <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-light.svg" alt="Luca Di Stefano, étudiant en E-business · E-business student" width="100%">
-</picture>
 
 [CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [CV in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
 
+</picture>
 </div>
 
 ## À propos · About
