@@ -49,12 +49,18 @@
 | **Image** | Photo, vidéo, contenu visuel · Photo, video, visual content |
 | **Digital** | Marketing et communication digitale · Digital marketing and communication |
 
+![Figma](https://img.shields.io/badge/Figma-1754b8?style=flat-square)
+![Illustrator](https://img.shields.io/badge/Illustrator-1754b8?style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-1754b8?style=flat-square)
+![Lightroom](https://img.shields.io/badge/Lightroom-1754b8?style=flat-square)
+
 ![HTML](https://img.shields.io/badge/HTML-1754b8?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-1754b8?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1754b8?style=flat-square)
-<!-- Ajoute ici tes autres outils, même format. Exemple :
-![Figma](https://img.shields.io/badge/Figma-1754b8?style=flat-square)
--->
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1754b8?style=flat-square)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-1754b8?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-1754b8?style=flat-square)
+![jsPDF](https://img.shields.io/badge/jsPDF-1754b8?style=flat-square)
 
 <p align="center">
   <picture>
