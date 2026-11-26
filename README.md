@@ -3,10 +3,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-dark.svg">
   <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-light.svg" alt="Luca Di Stefano, étudiant en E-business · E-business student" width="100%">
-
-[CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [CV in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
-
 </picture>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-lucadistefano.be-102a56?style=flat-square)](https://lucadistefano.be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luca--distefano-0a66c2?style=flat-square)](https://www.linkedin.com/in/luca-distefano)
+[![Behance](https://img.shields.io/badge/Behance-lucadistefano14-1769ff?style=flat-square)](https://www.behance.net/lucadistefano14)
+[![Dribbble](https://img.shields.io/badge/Dribbble-luca--di--stefano-ea4c89?style=flat-square)](https://dribbble.com/luca-di-stefano)
+[![Instagram](https://img.shields.io/badge/Instagram-%40luca__dsf-e4405f?style=flat-square)](https://www.instagram.com/luca_dsf/)
+
+[CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [Resume in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
+
 </div>
 
 ## À propos · About
@@ -39,10 +45,24 @@
 
 ## Projets · Selected work
 
-- **Burnout Fuel** : identité de marque, packaging et site web pour une boisson énergisante. *Brand identity, packaging and website for an energy drink.*
-- **Dan's Auto** : identité visuelle, site web d'annonces automobiles et application de gestion des annonces. *Visual identity, car listings website and listing management app.*
-- **Anamnèse** : un formulaire d'anamnèse et un rapport de séance qui créent des PDF directement sur l'appareil, pour l'activité de massage canin de ma mère. *An intake form and a session report that create PDFs on the device, for my mother's dog massage business.*
-- **L'Auberge du Lac** : identité visuelle et supports de communication d'un restaurant à Péronnes. *Visual identity and communication materials for a restaurant in Péronnes.*
+<p align="center">
+  <a href="https://lucadistefano.be/portfolio/#projet-burnout-fuel"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-burnout-fuel-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-burnout-fuel.svg" alt="Burnout Fuel : Marque, packaging, site web et réseaux sociaux d'une boisson énergisante. Brand, packaging, website and social media for an energy drink." width="49%">
+  </picture></a>
+  <a href="https://lucadistefano.be/portfolio/#projet-dans-auto"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-dans-auto-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-dans-auto.svg" alt="Dan's Auto : Logo, site vitrine et application de gestion pour Dan's Auto, à Tournai. Logo, showcase website and management app for Dan's Auto in Tournai." width="49%">
+  </picture></a>
+  <a href="https://lucadistefano.be/portfolio/#projet-anamnese"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-anamnese-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-anamnese.svg" alt="Anamnèse : Fiche d'anamnèse et rapport de séance en PDF, pour une activité de massage canin. Intake form and session report as PDFs, for a dog massage business." width="49%">
+  </picture></a>
+  <a href="https://lucadistefano.be/portfolio/#projet-auberge-du-lac"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-auberge-du-lac-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/card-auberge-du-lac.svg" alt="L'Auberge du Lac : Identité visuelle d'un restaurant à Péronnes : cartes de visite, menus, bons cadeaux. Visual identity for a restaurant in Péronnes: business cards, menus, gift vouchers." width="49%">
+  </picture></a>
+</p>
 
 [Voir tous les projets · See all projects](https://lucadistefano.be/portfolio/#projets)
 
