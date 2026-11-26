@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="t d">
+  <!-- Icônes : Lucide (https://lucide.dev), licence ISC, Copyright (c) Lucide Icons and Contributors. Voir LICENSE-lucide.txt. -->
   <title id="t">Burnout Fuel</title>
   <desc id="d">Burnout Fuel. Marque, packaging, site web et réseaux sociaux d'une boisson énergisante. Brand, packaging, website and social media for an energy drink.</desc>
   <defs>
@@ -20,7 +21,6 @@
     .fr { font-size: 18px; fill: #191c23; }
     .en { font-size: 17px; font-style: italic; fill: #6c6c6a; }
     .chip { font-size: 13px; fill: #3d3d3c; }
-    .mono { font-size: 34px; font-weight: 700; fill: #f4f3ef; }
     .orb { animation: drift 7s ease-in-out infinite alternate; }
     @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-14px, -10px); } }
     @media (prefers-reduced-motion: reduce) { .orb { animation: none; } }
@@ -28,14 +28,14 @@
   <g clip-path="url(#round)">
     <rect width="600" height="300" fill="#f4f3ef"/>
     <rect width="600" height="300" fill="url(#dots)"/>
-    <text class="cat" x="36" y="52"><tspan class="idx">01</tspan> / BRANDING · PACKAGING · WEB</text>
+    <text class="cat" x="36" y="52"><tspan class="idx">02</tspan> / BRANDING · PACKAGING · WEB</text>
     <text class="title" x="36" y="106">Burnout Fuel</text>
     <text class="fr" x="36" y="146">Marque, packaging, site web et réseaux</text><text class="fr" x="36" y="168">sociaux d'une boisson énergisante.</text>
     <text class="en" x="36" y="200">Brand, packaging, website and social media</text><text class="en" x="36" y="221">for an energy drink.</text>
     <rect x="36" y="244" width="82.4" height="24" rx="12" fill="#ffffff" fill-opacity="0.65" stroke="#102a56" stroke-opacity="0.18"/><text class="chip" x="77.2" y="260" text-anchor="middle">Branding</text><rect x="126.4" y="244" width="90.2" height="24" rx="12" fill="#ffffff" fill-opacity="0.65" stroke="#102a56" stroke-opacity="0.18"/><text class="chip" x="171.5" y="260" text-anchor="middle">Packaging</text><rect x="224.60000000000002" y="244" width="43.4" height="24" rx="12" fill="#ffffff" fill-opacity="0.65" stroke="#102a56" stroke-opacity="0.18"/><text class="chip" x="246.3" y="260" text-anchor="middle">Web</text><rect x="276.0" y="244" width="121.4" height="24" rx="12" fill="#ffffff" fill-opacity="0.65" stroke="#102a56" stroke-opacity="0.18"/><text class="chip" x="336.7" y="260" text-anchor="middle">Groupe · Team</text>
     <rect x="476" y="28" width="88" height="88" rx="20" fill="url(#tile)"/>
     <g clip-path="url(#tileclip)"><circle class="orb" cx="556" cy="112" r="44" fill="#ffffff" fill-opacity="0.2"/></g>
-    <text class="mono" x="520" y="83" text-anchor="middle">BF</text>
+    <g transform="translate(496 48) scale(2)" fill="none" stroke="#f4f3ef" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="4.5" rx="6.5" ry="2.2"/><path d="M5.5 4.5v15c0 1.2 2.9 2.2 6.5 2.2s6.5-1 6.5-2.2v-15"/><g transform="translate(6.48 7.48) scale(0.46)" stroke-width="2.6"><path d="M15.914 4a1.5 1.5 0 00-2.474-1.561l-9 9A1.5 1.5 0 005.5 14h4.002a.5.5 0 01.471.666L8.086 20a1.5 1.5 0 002.475 1.56l9-9A1.5 1.5 0 0018.5 10h-3.997a.5.5 0 01-.472-.667z"/></g></g>
     <circle cx="548" cy="256" r="18" fill="none" stroke="#1754b8" stroke-opacity="0.45" stroke-width="1.5"/>
     <path d="M541 263 L555 249 M546 249 H555 V258" fill="none" stroke="#1754b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>

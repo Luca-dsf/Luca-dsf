@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="24" viewBox="0 0 840 24" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="l" gradientUnits="userSpaceOnUse" x1="2" y1="0" x2="392" y2="0">
+      <stop offset="0" stop-color="#102a56" stop-opacity="0"/>
+      <stop offset="1" stop-color="#102a56" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="r" gradientUnits="userSpaceOnUse" x1="448" y1="0" x2="838" y2="0">
+      <stop offset="0" stop-color="#102a56" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#102a56" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1754b8"/>
+      <stop offset="1" stop-color="#397ff6"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .ring { transform-box: fill-box; transform-origin: center; animation: ping 3.2s ease-out infinite; }
+    @keyframes ping { from { transform: scale(1); opacity: .6; } to { transform: scale(2.8); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ring { animation: none; opacity: 0; } }
+  </style>
+  <line x1="2" y1="12" x2="392" y2="12" stroke="url(#l)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="0.01 9"/>
+  <line x1="448" y1="12" x2="838" y2="12" stroke="url(#r)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="0.01 9"/>
+  <circle cx="404" cy="12" r="2.5" fill="#1754b8" fill-opacity="0.55"/>
+  <circle cx="436" cy="12" r="2.5" fill="#1754b8" fill-opacity="0.55"/>
+  <circle class="ring" cx="420" cy="12" r="6" fill="none" stroke="#1754b8" stroke-width="1.5"/>
+  <circle cx="420" cy="12" r="6" fill="url(#orb)"/>
+</svg>
