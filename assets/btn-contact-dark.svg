@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="309" height="56" viewBox="0 0 309 56" role="img" aria-labelledby="t">
+  <!-- Icônes : Lucide (https://lucide.dev), licence ISC, Copyright (c) Lucide Icons and Contributors. Voir LICENSE-lucide.txt. -->
+  <title id="t">Me contacter · Get in touch</title>
+  <defs><linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1754b8"/><stop offset="1" stop-color="#397ff6"/></linearGradient></defs>
+  <style>text { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; font-weight: 700; fill: #f4f3ef; }</style>
+  <rect x="6" y="6" width="297" height="44" rx="14" fill="url(#tile)"/>
+  <g transform="translate(26 19) scale(0.75)" fill="none" stroke="#f4f3ef" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/></g>
+  <text x="54" y="33.5">Me contacter · Get in touch</text>
+</svg>
