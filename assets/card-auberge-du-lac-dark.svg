@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="t d">
+  <title id="t">L'Auberge du Lac</title>
+  <desc id="d">L'Auberge du Lac. Identité visuelle d'un restaurant à Péronnes : cartes de visite, menus, bons cadeaux. Visual identity for a restaurant in Péronnes: business cards, menus, gift vouchers.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#1a2845"/>
+    </pattern>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1754b8"/>
+      <stop offset="1" stop-color="#397ff6"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="600" height="300" rx="16"/></clipPath>
+    <clipPath id="tileclip"><rect x="476" y="28" width="88" height="88" rx="20"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .cat { font-size: 14px; letter-spacing: 0.5px; fill: #8a8a86; }
+    .idx { fill: #5b9bff; font-weight: 700; }
+    .title { font-size: 36px; font-weight: 700; letter-spacing: -0.5px; fill: #e9e7e1; }
+    .fr { font-size: 18px; fill: #e9e7e1; }
+    .en { font-size: 17px; font-style: italic; fill: #b7b6b0; }
+    .chip { font-size: 13px; fill: #b7b6b0; }
+    .mono { font-size: 34px; font-weight: 700; fill: #f4f3ef; }
+    .orb { animation: drift 7s ease-in-out infinite alternate; }
+    @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-14px, -10px); } }
+    @media (prefers-reduced-motion: reduce) { .orb { animation: none; } }
+  </style>
+  <g clip-path="url(#round)">
+    <rect width="600" height="300" fill="#0b1424"/>
+    <rect width="600" height="300" fill="url(#dots)"/>
+    <text class="cat" x="36" y="52"><tspan class="idx">04</tspan> / BRANDING · COMMUNICATION</text>
+    <text class="title" x="36" y="106">L'Auberge du Lac</text>
+    <text class="fr" x="36" y="146">Identité visuelle d'un restaurant à Péronnes :</text><text class="fr" x="36" y="168">cartes de visite, menus, bons cadeaux.</text>
+    <text class="en" x="36" y="200">Visual identity for a restaurant in Péronnes:</text><text class="en" x="36" y="221">business cards, menus, gift vouchers.</text>
+    <rect x="36" y="244" width="82.4" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#e9e7e1" stroke-opacity="0.22"/><text class="chip" x="77.2" y="260" text-anchor="middle">Branding</text><rect x="126.4" y="244" width="59.0" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#e9e7e1" stroke-opacity="0.22"/><text class="chip" x="155.9" y="260" text-anchor="middle">Menus</text><rect x="193.4" y="244" width="129.2" height="24" rx="12" fill="#ffffff" fill-opacity="0.06" stroke="#e9e7e1" stroke-opacity="0.22"/><text class="chip" x="258.0" y="260" text-anchor="middle">Business cards</text>
+    <rect x="476" y="28" width="88" height="88" rx="20" fill="url(#tile)"/>
+    <g clip-path="url(#tileclip)"><circle class="orb" cx="556" cy="112" r="44" fill="#ffffff" fill-opacity="0.2"/></g>
+    <text class="mono" x="520" y="83" text-anchor="middle">AL</text>
+    <circle cx="548" cy="256" r="18" fill="none" stroke="#5b9bff" stroke-opacity="0.45" stroke-width="1.5"/>
+    <path d="M541 263 L555 249 M546 249 H555 V258" fill="none" stroke="#5b9bff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="16" fill="none" stroke="#e9e7e1" stroke-opacity="0.15"/>
+</svg>
