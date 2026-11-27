@@ -23,9 +23,12 @@
   </picture>
 </h3>
 
-Étudiant en E-business à la HEPH-Condorcet de Tournai, en Belgique. J'imagine et je conçois des expériences digitales modernes qui combinent design, développement et image : sites web, identités visuelles, contenus photo et vidéo.
-
-*E-business student at HEPH-Condorcet in Tournai, Belgium. I design and build modern digital experiences that combine design, development and imagery: websites, visual identities, photo and video content.*
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/about-text-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/about-text.svg" alt="Étudiant en E-business à la HEPH-Condorcet de Tournai, en Belgique. J'imagine et je conçois des expériences digitales modernes qui combinent design, développement et image : sites web, identités visuelles, contenus photo et vidéo. E-business student at HEPH-Condorcet in Tournai, Belgium. I design and build modern digital experiences that combine design, development and imagery: websites, visual identities, photo and video content." width="624">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
