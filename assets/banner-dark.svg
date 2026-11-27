@@ -16,14 +16,12 @@
     text { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
     .name { font-size: 68px; font-weight: 700; letter-spacing: -1px; fill: #e9e7e1; }
     .role { font-size: 22px; fill: #b7b6b0; }
-    .pill { font-size: 15px; fill: #e9e7e1; }
     .l { font-size: 28px; fill: #5b9bff; opacity: 0; animation: cycle 12s infinite both; }
     .l2 { animation-delay: 3s; }
     .l3 { animation-delay: 6s; }
     .l4 { animation-delay: 9s; }
     .orb { animation: float 8s ease-in-out infinite alternate; }
     .ring { transform-box: fill-box; transform-origin: center; animation: spin 40s linear infinite; }
-    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
     @keyframes cycle {
       0%   { opacity: 0; transform: translateY(8px); }
       3%   { opacity: 1; transform: translateY(0); }
@@ -33,12 +31,10 @@
     }
     @keyframes float { from { transform: translateY(0); } to { transform: translateY(-14px); } }
     @keyframes spin { to { transform: rotate(360deg); } }
-    @keyframes pulse { from { transform: scale(1); opacity: .8; } to { transform: scale(3); opacity: 0; } }
     @media (prefers-reduced-motion: reduce) {
-      .l, .orb, .ring, .pulse { animation: none; }
+      .l, .orb, .ring { animation: none; }
       .l { opacity: 0; }
       .l1 { opacity: 1; }
-      .pulse { opacity: 0; }
     }
   </style>
   <g clip-path="url(#round)">
@@ -48,16 +44,12 @@
       <circle class="ring" cx="1010" cy="360" r="292" fill="none" stroke="#e9e7e1" stroke-opacity="0.16" stroke-dasharray="3 9"/>
       <circle cx="1010" cy="360" r="250" fill="url(#orb)"/>
     </g>
-    <rect x="60" y="32" width="352" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#e9e7e1" stroke-opacity="0.22"/>
-    <circle cx="80" cy="49" r="4" fill="#56ff4d"/>
-    <circle class="pulse" cx="80" cy="49" r="4" fill="none" stroke="#56ff4d" stroke-width="1.5"/>
-    <text class="pill" x="98" y="54.5">Disponible · Open to opportunities</text>
-    <text class="name" x="58" y="150">LUCA DI STEFANO</text>
-    <text class="role" x="60" y="202">Étudiant en E-business · E-business student</text>
-    <text class="l l1" x="60" y="256"><tspan fill="#8a8a86">/ </tspan>Design UX/UI</text>
-    <text class="l l2" x="60" y="256"><tspan fill="#8a8a86">/ </tspan>Identité visuelle · Branding</text>
-    <text class="l l3" x="60" y="256"><tspan fill="#8a8a86">/ </tspan>Développement web · Web dev</text>
-    <text class="l l4" x="60" y="256"><tspan fill="#8a8a86">/ </tspan>Marketing digital · Digital marketing</text>
+    <text class="name" x="58" y="130">LUCA DI STEFANO</text>
+    <text class="role" x="60" y="182">Étudiant en E-business · E-business student</text>
+    <text class="l l1" x="60" y="236"><tspan fill="#8a8a86">/ </tspan>Design UX/UI</text>
+    <text class="l l2" x="60" y="236"><tspan fill="#8a8a86">/ </tspan>Identité visuelle · Branding</text>
+    <text class="l l3" x="60" y="236"><tspan fill="#8a8a86">/ </tspan>Développement web · Web dev</text>
+    <text class="l l4" x="60" y="236"><tspan fill="#8a8a86">/ </tspan>Marketing digital · Digital marketing</text>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#e9e7e1" stroke-opacity="0.15"/>
 </svg>
