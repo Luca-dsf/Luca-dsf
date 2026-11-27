@@ -27,16 +27,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-formation-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-formation.svg" alt="Formation · Studies : E-business, HEPH-Condorcet" width="278">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-lieu-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-lieu.svg" alt="Lieu · Location : Tournai, Belgique · Belgium" width="278">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-recherche-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/fact-recherche.svg" alt="Recherche · Looking for : Stage · Internship, UX/UI, web, marketing" width="278">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/about-facts-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/about-facts.svg" alt="À propos en bref · At a glance. Formation · Studies : E-business, HEPH-Condorcet. Lieu · Location : Tournai, Belgique · Belgium. Recherche · Looking for : Stage · Internship, UX/UI, web, marketing." width="100%">
   </picture>
 </p>
 
@@ -49,20 +41,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-design-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-design.svg" alt="Design : Interfaces UX/UI, identité visuelle. UX/UI interfaces, branding. Figma, Illustrator." width="418">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-web-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-web.svg" alt="Web : Conception et développement de sites sur mesure. Custom website design and development. HTML, CSS, JavaScript, Tailwind CSS, Alpine.js, Laravel, jsPDF." width="418">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-image-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-image.svg" alt="Image : Photo, vidéo, contenu visuel. Photo, video, visual content. Photoshop, Lightroom." width="418">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-digital-dark.svg">
-    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skill-digital.svg" alt="Digital : Marketing et communication digitale. Digital marketing and communication." width="418">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skills-grid-dark.svg">
+    <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/skills-grid.svg" alt="Compétences · Skills. Design : Interfaces UX/UI, identité visuelle. UX/UI interfaces, branding. Figma, Illustrator. Web : Conception et développement de sites sur mesure. Custom website design and development. HTML, CSS, JavaScript, Tailwind CSS, Alpine.js, Laravel, jsPDF. Image : Photo, vidéo, contenu visuel. Photo, video, visual content. Photoshop, Lightroom. Digital : Marketing et communication digitale. Digital marketing and communication." width="100%">
   </picture>
 </p>
 
