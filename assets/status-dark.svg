@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="80" viewBox="0 0 840 80" role="img" aria-labelledby="t d">
+  <title id="t">Disponible · Available</title>
+  <desc id="d">Disponible pour un stage et pour de nouveaux projets. Available for an internship and for new projects. Me contacter · Get in touch.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1a2845"/></pattern>
+    <clipPath id="round"><rect width="840" height="80" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .fr { font-size: 16px; font-weight: 700; fill: #e9e7e1; }
+    .en { font-size: 15px; font-style: italic; fill: #b7b6b0; }
+    .cta { font-size: 14px; fill: #5b9bff; }
+    .cta-en { font-style: italic; fill: #b7b6b0; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2s ease-out infinite; }
+    @keyframes pulse { from { transform: scale(1); opacity: .8; } to { transform: scale(3); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; opacity: 0; } }
+  </style>
+  <g clip-path="url(#round)">
+    <rect width="840" height="80" fill="#0b1424"/>
+    <rect width="840" height="80" fill="url(#dots)"/>
+    <circle cx="38" cy="40" r="5" fill="#56ff4d"/>
+    <circle class="pulse" cx="38" cy="40" r="5" fill="none" stroke="#56ff4d" stroke-width="1.5"/>
+    <text class="fr" x="66" y="37">Disponible pour un stage et pour de nouveaux projets</text>
+    <text class="en" x="66" y="58">Available for an internship and for new projects</text>
+    <text class="cta" x="742" y="37" text-anchor="end">Me contacter</text>
+    <text class="cta cta-en" x="742" y="58" text-anchor="end">Get in touch</text>
+    <circle cx="786" cy="40" r="18" fill="none" stroke="#5b9bff" stroke-opacity="0.45" stroke-width="1.5"/>
+    <path d="M779 47 L793 33 M784 33 H793 V42" fill="none" stroke="#5b9bff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="0.5" y="0.5" width="839" height="79" rx="16" fill="none" stroke="#e9e7e1" stroke-opacity="0.15"/>
+</svg>
