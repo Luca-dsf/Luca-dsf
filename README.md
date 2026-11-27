@@ -3,16 +3,18 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-dark.svg">
   <img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/banner-light.svg" alt="Luca Di Stefano, étudiant en E-business · E-business student" width="100%">
-
-[CV en français](https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf) · [CV in English](https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf)
-
 </picture>
+
 </div>
 
-> [!NOTE]
-> **Disponible** pour un stage et pour de nouveaux projets. [Me contacter](https://lucadistefano.be/portfolio/#contact)
->
-> **Available** for an internship and for new projects. [Get in touch](https://lucadistefano.be/portfolio/#contact)
+<p align="center">
+  <a href="https://lucadistefano.be/portfolio/assets/documents/cv-luca-di-stefano.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/btn-cv-fr-dark.svg"><img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/btn-cv-fr.svg" alt="CV en français" height="56"></picture></a>
+  <a href="https://lucadistefano.be/portfolio/assets/documents/English-CV-2026-DiStefanoLuca.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/btn-cv-en-dark.svg"><img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/btn-cv-en.svg" alt="CV in English" height="56"></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://lucadistefano.be/portfolio/#contact"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/status-dark.svg"><img src="https://raw.githubusercontent.com/Luca-dsf/Luca-dsf/main/assets/status.svg" alt="Disponible pour un stage et pour de nouveaux projets. Available for an internship and for new projects. Me contacter · Get in touch." width="100%"></picture></a>
+</p>
 
 <h3>
   <picture>
@@ -21,9 +23,9 @@
   </picture>
 </h3>
 
-| Français | English |
-|---|---|
-| Étudiant en E-business à la HEPH-Condorcet de Tournai, en Belgique. J'imagine et je conçois des expériences digitales modernes qui combinent design, développement et image : sites web, identités visuelles, contenus photo et vidéo. | E-business student at HEPH-Condorcet in Tournai, Belgium. I design and build modern digital experiences that combine design, development and imagery: websites, visual identities, photo and video content. |
+Étudiant en E-business à la HEPH-Condorcet de Tournai, en Belgique. J'imagine et je conçois des expériences digitales modernes qui combinent design, développement et image : sites web, identités visuelles, contenus photo et vidéo.
+
+*E-business student at HEPH-Condorcet in Tournai, Belgium. I design and build modern digital experiences that combine design, development and imagery: websites, visual identities, photo and video content.*
 
 <p align="center">
   <picture>
